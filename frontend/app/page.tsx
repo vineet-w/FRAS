@@ -259,8 +259,8 @@ export default function ComingSoon() {
 
       {/* ── Logo — fixed, centred at top ── */}
       <header className="logo-header" aria-label="FRAS logo">
-   
-      {/* <Image src="/icon.png" loading="eager"  alt="FRAS" className="logo-img" width={120} height={28} />
+
+        * <Image src="/icon.png" loading="eager" alt="FRAS" className="logo-img" width={120} height={28} />
 
   */}
       </header>
